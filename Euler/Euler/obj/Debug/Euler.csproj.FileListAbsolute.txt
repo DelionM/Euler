@@ -1,0 +1,9 @@
+c:\users\investor_dm_\documents\visual studio 2015\Projects\Euler\Euler\bin\Debug\Euler.exe.config
+c:\users\investor_dm_\documents\visual studio 2015\Projects\Euler\Euler\obj\Debug\Euler.csprojResolveAssemblyReference.cache
+c:\users\investor_dm_\documents\visual studio 2015\Projects\Euler\Euler\obj\Debug\Euler.Form1.resources
+c:\users\investor_dm_\documents\visual studio 2015\Projects\Euler\Euler\obj\Debug\Euler.Properties.Resources.resources
+c:\users\investor_dm_\documents\visual studio 2015\Projects\Euler\Euler\obj\Debug\Euler.csproj.GenerateResource.Cache
+c:\users\investor_dm_\documents\visual studio 2015\Projects\Euler\Euler\bin\Debug\Euler.exe
+c:\users\investor_dm_\documents\visual studio 2015\Projects\Euler\Euler\bin\Debug\Euler.pdb
+c:\users\investor_dm_\documents\visual studio 2015\Projects\Euler\Euler\obj\Debug\Euler.exe
+c:\users\investor_dm_\documents\visual studio 2015\Projects\Euler\Euler\obj\Debug\Euler.pdb
